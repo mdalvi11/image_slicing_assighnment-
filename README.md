@@ -1,0 +1,2 @@
+# image_slicing_assighnment-
+piaic_assighnment_numpy
